@@ -11,6 +11,5 @@ function calSum() {
         case "-": answerDisplay.value = num1 - num2; break;
         case "*": answerDisplay.value = num1 * num2; break;
         case "/": answerDisplay.value = num1 / num2; break;
-        default : alert("Invalid Operator");
     }
 }
